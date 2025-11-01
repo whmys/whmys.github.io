@@ -1,4 +1,4 @@
-# Find me at:\
+# Find me at these places:
 [ig.willwhite.ca](ig.willwhite.ca)
 [photos.willwhite.ca](photos.willwhite.ca)\
 [sax.willwhite.ca](sax.willwhite.ca)
