@@ -1,7 +1,7 @@
 # Find me at these places:
-[ig.willwhite.ca](ig.willwhite.ca)
-[photos.willwhite.ca](photos.willwhite.ca)\
-[sax.willwhite.ca](sax.willwhite.ca)
-[in.willwhite.ca](in.willwhite.ca)
-[git.willwhite.ca](git.willwhite.ca)\
-[steam.willwhite.ca](steam.willwhite.ca)
+[ig.willwhite](https://ig.willwhite.ca)
+[photos.willwhite](https://photos.willwhite.ca)\
+[sax.willwhite](https://sax.willwhite.ca)
+[in.willwhite](https://in.willwhite.ca)
+[git.willwhite](https://git.willwhite.ca)\
+[steam.willwhite](https://steam.willwhite.ca)
