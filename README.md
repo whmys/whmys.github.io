@@ -4,5 +4,5 @@
 [sax.willwhite](https://sax.willwhite.ca)\
 [in.willwhite](https://in.willwhite.ca)\
 [git.willwhite](https://git.willwhite.ca)\
-[steam.willwhite](https://steam.willwhite.ca)
-[todo.willwhite](https://todo.willwhite.ca)\
+[steam.willwhite](https://steam.willwhite.ca)\
+[todo.willwhite](https://todo.willwhite.ca)
