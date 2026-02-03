@@ -5,7 +5,9 @@
 [in.willwhite](https://in.willwhite.ca)\
 [git.willwhite](https://git.willwhite.ca)\
 [steam.willwhite](https://steam.willwhite.ca)\
-[duo.willwhite](https://duo.willwhite.ca)
+[duo.willwhite](https://duo.willwhite.ca)\
+[yt.willwhite](https://yt.willwhite.ca)\
+[score.willwhite](https://score.willwhite.ca)
 
 ## Things I've Made
 [todo.willwhite](https://todo.willwhite.ca)
