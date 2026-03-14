@@ -13,5 +13,6 @@
 [todo.willwhite](https://todo.willwhite.ca)
 
 ## Cool Graphs
-<iframe src="https://www.desmos.com/calculator/ldujuyutfd?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
-<iframe src="https://www.desmos.com/calculator/7b2345407c?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+<iframe src="https://www.desmos.com/calculator/ldujuyutfd?embed" width="400" height="400" style="border: 1px solid #ccc" frameborder=0></iframe>
+<iframe src="https://www.desmos.com/calculator/7b2345407c?embed" width="400" height="400" style="border: 1px solid #ccc" frameborder=0></iframe>
+<iframe src="https://www.desmos.com/calculator/0757c51560?embed" width="400" height="400" style="border: 1px solid #ccc" frameborder=0></iframe>
